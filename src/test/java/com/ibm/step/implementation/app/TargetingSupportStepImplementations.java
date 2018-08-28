@@ -1,4 +1,4 @@
-package com.pp.step.implementation.advertiser;
+package com.ibm.step.implementation.app;
 
 import cucumber.api.DataTable;
 
@@ -54,4 +54,5 @@ public class TargetingSupportStepImplementations {
 	public void validateHTTPresponseBodyShouldBeSuccessfulFor(String httpMethod_APIendPoint) {
 
 	}
+
 }

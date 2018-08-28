@@ -1,4 +1,4 @@
-package com.pp.runner.advertiser;
+package com.ibm.runner.app;
 
 import java.io.File;
 
@@ -12,7 +12,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "src/test/resources", glue = "com.pp.step.definition.advertiser", dryRun = false, strict = false, monochrome = true,
+@CucumberOptions(features = "src/test/resources", glue = "com.ibm.step.definition.app", dryRun = false, strict = false, monochrome = true,
 		// tags = {"@tag1"},
 		plugin = { "html:target/cucumber/html", "json:target/cucumber/cucumber-json.json",
 				"pretty:target/cucumber/cucumber-pretty.txt", "usage:target/cucumber/cucumber-usage.json",

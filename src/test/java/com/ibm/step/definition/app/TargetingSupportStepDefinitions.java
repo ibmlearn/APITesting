@@ -1,6 +1,6 @@
-package com.pp.step.definition.advertiser;
+package com.ibm.step.definition.app;
 
-import com.pp.step.implementation.advertiser.TargetingSupportStepImplementations;
+import com.ibm.step.implementation.app.TargetingSupportStepImplementations;
 
 import cucumber.api.DataTable;
 import cucumber.api.java.en.Given;

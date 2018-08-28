@@ -2,7 +2,7 @@ Feature: Testing Advertiser API Targeting Support End Point
 
 Background: 
 	Given Simple init 
-	And Set basic application url is "http://ppappqa300:8080/AdvertiserApi/rest/fstargetingsupport/healthcategories/noHierarchy" 
+	And Set basic application url is "http://application:8080/Api/rest/" 
 	And Set basic user details are 
 		| particular                      | value           |
 
