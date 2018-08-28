@@ -1,4 +1,4 @@
-Feature: Testing Advertiser API Targeting Support End Point
+Feature: Testing API End Point
 
 Background: 
 	Given Simple init 
