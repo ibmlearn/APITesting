@@ -2,9 +2,9 @@ package com.ibm.step.definition.app;
 
 import com.ibm.step.implementation.app.TargetingSupportStepImplementations;
 
-import cucumber.api.DataTable;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
+import io.cucumber.datatable.DataTable;
 
 public class TargetingSupportStepDefinitions {
 

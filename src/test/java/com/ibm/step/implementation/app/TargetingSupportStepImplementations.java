@@ -1,6 +1,6 @@
 package com.ibm.step.implementation.app;
 
-import cucumber.api.DataTable;
+import io.cucumber.datatable.DataTable;
 
 public class TargetingSupportStepImplementations {
 
